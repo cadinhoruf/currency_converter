@@ -1,16 +1,26 @@
-# currency_converter
+# Conversor de Moedas
 
-A new Flutter project.
+![Badge](https://img.shields.io/badge/conversor-moedas-brightgreen)
 
-## Getting Started
+Um aplicativo de conversão de moedas desenvolvido em Flutter que utiliza uma API em tempo real para fornecer taxas de câmbio atualizadas e converter valores entre diferentes moedas.
 
-This project is a starting point for a Flutter application.
+## Tabela de Conteúdo
 
-A few resources to get you started if this is your first Flutter project:
+- [Introdução](#introdução)
+- [Recursos](#recursos)
+- [Linguagem](#requisitos)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Introdução
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este é um aplicativo de conversão de moedas desenvolvido em Flutter que permite aos usuários converter valores entre diferentes moedas usando taxas de câmbio em tempo real de uma API externa. Ele é fácil de usar e fornece resultados precisos e atualizados.
+
+## Recursos
+
+- Conversão de moedas em tempo real.
+- Suporta uma ampla variedade de moedas.
+- Atualização automática das taxas de câmbio a partir de uma API externa.
+
+## Linguagem utilizada
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
